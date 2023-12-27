@@ -1,0 +1,16 @@
+mkinitcpio-firmware
+autojump
+github-desktop-bin
+lightly-git
+lightlyshaders-git
+nerd-fonts-fira-code
+nordic-darker-standard-buttons-theme
+nordic-darker-theme
+nordic-kde-git
+nordic-theme
+ocs-url
+plymouth-git
+sddm-nordic-theme-git
+snapper-gui-git
+snapper-support
+ttf-meslo
