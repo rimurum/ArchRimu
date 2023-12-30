@@ -3,7 +3,7 @@
 # Checking if is running in Repo Folder
 if [[ "$(basename "$(pwd)" | tr '[:upper:]' '[:lower:]')" =~ ^scripts$ ]]; then
     echo "You are running this in ArchRimu Folder."
-    echo "Please use ./archtitus.sh instead"
+    echo "Please use ./archrimu.sh instead"
     exit
 fi
 
