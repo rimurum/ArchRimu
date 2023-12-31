@@ -14,3 +14,5 @@ sddm-nordic-theme-git
 snapper-gui-git
 snapper-support
 ttf-meslo
+floorp-bin
+microsoft-edge-dev-bin
