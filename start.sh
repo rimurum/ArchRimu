@@ -18,5 +18,8 @@ git clone https://github.com/rimurum/ArchRimu
 echo "Executing ArchRimu Script"
 
 cd $HOME/ArchRimu
+find . -type f -exec chmod 755 {} +
+chmod 755 {} +
+chown -R $(whoami) .
 
 exec ./archrimu.sh
